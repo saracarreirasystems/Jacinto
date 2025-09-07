@@ -77,3 +77,11 @@
 <br>
 <p align="justify"> https://vikmuniz.net/pt/gallery/sand-castles
 <br>
+<h3 align="center"> ★ Atividade 4 ★ </h3>
+<br>
+<p align="justify"> A resolução da Atividade 4 encontra-se na subpasta A4, com o respectivo arquivo e código. </p>
+<br>
+<p align="justify"><strong> Trafalgar Square (London Psychogeographies) - Lizzie Mary Cullen (2012) </strong></p>
+<br>
+<p align="justify"> https://www.behance.net/gallery/5310015/London-Psychogeographies?locale=pt_BR </p>
+<br>
