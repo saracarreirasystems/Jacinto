@@ -2,3 +2,7 @@
 <br>
 <h3 align="center"> E1: Classes, Atributos, Métodos e Objetos </h3>
 <br>
+<h3 align="center"> ★ Atividade 1 ★ </h3>
+<br>
+<p align="justify"> A resolução da Atividade 1 encontra-se na subpasta A1, com o respectivo arquivo e código. </p>
+<br>
