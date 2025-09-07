@@ -85,3 +85,10 @@
 <br>
 <p align="justify"> https://www.behance.net/gallery/5310015/London-Psychogeographies?locale=pt_BR </p>
 <br>
+<h3 align="center"> ★ Atividade 5 ★ </h3>
+<br>
+<p align="justify"> A resolução da Atividade 5 encontra-se na subpasta A5, com o respectivo arquivo e código. </p>
+<br>
+<p align="justify"><strong> Make Me Forget (Official Music Video) - Sub Urban </strong></p>
+<br>
+<p align="justify"> https://youtu.be/JD5oazjDhTI?si=ShEZ9iI8o3rK9weF </p>
