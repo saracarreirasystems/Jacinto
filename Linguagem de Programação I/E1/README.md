@@ -62,3 +62,18 @@
 <br>
 <p align="justify"> https://open.spotify.com/track/1ZcxexxlkOQXYSWjUJNxIz?si=PlIlQDKhTyGs9wwcCljUow </p>
 <br>
+<h3 align="center"> ★ Atividade 3 ★ </h3>
+<br>
+<p align="justify"> A resolução da Atividade 3 encontra-se na subpasta A3, com os respectivos arquivos e códigos. </p>
+<br>
+<h3 align="center"> A3A </h3>
+<br>
+<p align="justify"><strong> Fossil (Pictures Of Soil) - Vik Muniz (1997) </strong></p>
+<br>
+<p align="justify"> https://vikmuniz.net/pt/gallery/soil </p>
+<br>
+<h3 align="center"> A3B </h3>
+<p align="justify"><strong> Sand Castle (Sand Castles) - Vik Muniz (2014) </strong></p>
+<br>
+<p align="justify"> https://vikmuniz.net/pt/gallery/sand-castles
+<br>
