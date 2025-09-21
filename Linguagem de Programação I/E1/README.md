@@ -92,3 +92,16 @@
 <p align="justify"><strong> Make Me Forget (Official Music Video) - Sub Urban </strong></p>
 <br>
 <p align="justify"> https://youtu.be/JD5oazjDhTI?si=ShEZ9iI8o3rK9weF </p>
+<br>
+<h3 align="center"> E1: Classes, Atributos, Métodos, Objetos, GUI e CSV </h3>
+<br>
+<h3 align="center"> ★ Atividade 6 ★ </h3>
+<br>
+<p align="justify"> A resolução da Atividade 6 encontra-se na subpasta A6, com o respectivo arquivo e código. </p>
+<br>
+<img width="1388" height="971" alt="Image" src="https://github.com/user-attachments/assets/cde0beec-436c-4b02-9a66-ced8832d0402" />
+<img width="1388" height="963" alt="Image" src="https://github.com/user-attachments/assets/338d1700-9a56-42cf-af74-712e60a04919" />
+<img width="1388" height="965" alt="Image" src="https://github.com/user-attachments/assets/27c3ab1f-4d25-4619-b92d-23487d324afe" />
+<img width="1388" height="969" alt="Image" src="https://github.com/user-attachments/assets/e40f5b30-99ff-4321-9529-5589f445ac6d" />
+<img width="1388" height="206" alt="Image" src="https://github.com/user-attachments/assets/7c93c79c-ea06-42bc-a653-1d9615399779" />
+<img width="1388" height="929" alt="Image" src="https://github.com/user-attachments/assets/fca95a68-5dca-4102-92d0-4770dca24e94" />
