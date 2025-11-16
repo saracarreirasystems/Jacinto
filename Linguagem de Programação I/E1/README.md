@@ -105,3 +105,8 @@
 <img width="1388" height="969" alt="Image" src="https://github.com/user-attachments/assets/e40f5b30-99ff-4321-9529-5589f445ac6d" />
 <img width="1388" height="206" alt="Image" src="https://github.com/user-attachments/assets/7c93c79c-ea06-42bc-a653-1d9615399779" />
 <img width="1388" height="929" alt="Image" src="https://github.com/user-attachments/assets/fca95a68-5dca-4102-92d0-4770dca24e94" />
+<br>
+<h3 align="center"> ★ Atividade 7 ★ </h3>
+<br>
+<p align="justify"> A resolução da Atividade 7 encontra-se na subpasta A7, com o respectivo arquivo e código. </p>
+<br>
