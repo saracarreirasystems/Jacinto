@@ -106,7 +106,8 @@
 <img width="1388" height="206" alt="Image" src="https://github.com/user-attachments/assets/7c93c79c-ea06-42bc-a653-1d9615399779" />
 <img width="1388" height="929" alt="Image" src="https://github.com/user-attachments/assets/fca95a68-5dca-4102-92d0-4770dca24e94" />
 <br>
-<h3 align="center"> ★ Atividade 7 ★ </h3>
+<h3 align="center"> E2: Classes, Atributos, Métodos, Objetos, GUI, Banco de Dados e Conexão </h3>
 <br>
-<p align="justify"> A resolução da Atividade 7 encontra-se na subpasta A7, com o respectivo arquivo e código. </p>
+<h3 align="center"> ★ Atividade E2 ★ </h3>
 <br>
+<p align="justify"> A resolução da Atividade E2 encontra-se na subpasta E2, com o respectivo arquivo e código. </p>
